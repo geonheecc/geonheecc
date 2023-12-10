@@ -10,5 +10,6 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rjsgml031005)](https://solved.ac/rjsgml031005/) 
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rjsgml031005s&show_icons=true&theme=tokyonight
 
