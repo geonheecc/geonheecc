@@ -7,5 +7,6 @@
 
 [![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python&logoColor=white)]
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rjsgml031005)](https://solved.ac/rjsgml031005/)
 
-https://www.acmicpc.net/user/rjsgml031005
+
