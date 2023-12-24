@@ -10,8 +10,3 @@ Language
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rjsgml031005)](https://solved.ac/rjsgml031005/) 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rjsgml031005&show_icons=true&theme=tokyonight)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=rjsgml031005&layout=compact&theme=tokyonight)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgeonheecc%2Fhit-counter&count_bg=%233D49C8&title_bg=%236C6767&icon=&icon_color=%23181717&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
